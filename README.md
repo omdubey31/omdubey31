@@ -7,7 +7,7 @@
 </div>
 
 
-<h1 align="center">Hello 👋, I'm Ganesh Tiwari</h1>
+<h1 align="center">Hello 👋, I'm Om Dubey</h1>
 
 ### 🚗Software Engineer |🖥️Web Developer |🚀 Data Analyst | 📊 Turning Data into Insights | 💻 Pre-final year B.Tech (CSE)   
 ---
