@@ -82,4 +82,22 @@ Analyzed market data using **SQL** and **Power BI**, delivering insights to enha
 
 ---
 
+## 🌟 Interests
+  - 👋 Hi, I’m Om Dubey
+  - 👀 I’m interested in Coding
+  - 🌱 I’m currently learning Data Science
+  - 💞 I’m looking to collaborate on exciting projects
+  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/om-dubey-887603292/)
+  - 😄 Interests: Coding, Learning, Writing, Public speaking
+  - ⚡ Fun fact: I enjoy solving puzzles and challenges!
+
+
+
+<div align="center">
+<h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+M54&pause=1000&color=FDB60D&width=435&lines=Thanks+for+visiting+my+profile!)](https://git.io/typing-svg)
+
+</h1>
+</div>
 ### Let's connect and build something amazing together! 💼✨
