@@ -1,3 +1,12 @@
+<div align="center">
+    <h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=439&lines=Welcome+to+My+GitHub+Profile;+I+am+a+Software+Engineer;Turning+idea+into+code.;Pushing+Boundaries+and+Solving+Problems.;Fluent+in+Cpp+,+Python+and+Java;Let%27s+Connect+and+Build+Career.)](https://git.io/typing-svg)
+
+</h1>
+</div>
+
+
 # 👨‍💻 Om Dubey
 
 **Motivated and results-driven Computer Science student** passionate about solving real-world problems through code. Skilled in software development, data analysis, and full-stack web technologies. Seeking opportunities to contribute to impactful projects and collaborative tech teams.
